@@ -1,5 +1,5 @@
-# FlappyBirdAI
-Solve the Game FlappyBird via AI
+# Java EE ToDo App
+First Project to get into Java EE
 
 ######
-Work in Progress - nächstes Project nach Absolvieren des Udemy Kurses
+Work in Progress
